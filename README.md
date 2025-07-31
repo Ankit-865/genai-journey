@@ -37,7 +37,7 @@ I believe in **learning by doing**, and this public repo helps me:
 ## 🙌 Let’s Connect!
 
 - 🔗 [GitHub](https://github.com/Ankit-865)
-- 💼 [LinkedIn](#) *(Add your link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankitnamdev)
 
 ---
 
