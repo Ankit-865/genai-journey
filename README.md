@@ -13,7 +13,7 @@ This repository contains my day-by-day progress, mini-projects, experiments, and
 
 ## 📅 Daily Progress
 
-- ✅ [Day 1 – Quote Generator Project](./day1/README.md)
+- ✅ [Day 1 – Quote Generator Project]
 - 🔜 Day 2 – Prompt Engineering + Mini App
 - ⏳ More coming soon...
 
