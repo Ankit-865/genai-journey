@@ -1,0 +1,3 @@
+Word Count: 10
+Sentence Count: 1
+Most Frequent Word: hey (1 times)
