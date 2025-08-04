@@ -16,7 +16,7 @@ This repository contains my day-by-day progress, mini-projects, experiments, and
 - ✅ [Day 1 – Quote Generator Project]
 - 🔜 Day 2 – Prompt Engineering + Mini App
 - Day 3 - Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.
-
+Day 4: Mastered functions and data structures, developed a Quote Manager App.
 ---
 
 ## 📍 Why This Journey?
