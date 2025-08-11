@@ -7,7 +7,7 @@ I’ve committed to a consistent, project-based learning path focused on **daily
 
 ## 📘 What You’ll Find Here
 
-This repository contains my day-by-day progress, mini-projects, experiments, and learning logs – all part of my journey to becoming job-ready in **GenAI + Full Stack + Web3**.
+This repository contains my day-by-day progress, mini-projects, experiments, and learning logs – all part of my journey to becoming job-ready in **GenAI + Full Stack**.
 
 ---
 
@@ -16,8 +16,10 @@ This repository contains my day-by-day progress, mini-projects, experiments, and
 - ✅ [Day 1 – Quote Generator Project]
 - 🔜 Day 2 – Prompt Engineering + Mini App
 - Day 3 - Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.
-Day 4: Mastered functions and data structures, developed a Quote Manager App.
----
+  ✅ [Day 4 – Mastered functions and data structures, developed a Quote Manager App.]
+  ✅ [Day 5 – Learned dictionaries, built an Expense Tracker app.]
+  ✅ [Day 6 – Learned file handling, enhanced Expense Tracker with save/load functionality.]
+🔜 Day 7 – Prompt Engineering + Mini App
 
 ## 📍 Why This Journey?
 
