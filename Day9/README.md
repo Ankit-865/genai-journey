@@ -10,6 +10,3 @@ Started ExpenseManager class for Expense Tracker with add and view functionality
 Next
 Day 10: Add methods and file handling to the class.
 
-Motivation
-
-Day 9 ka OOP start—journey on! 
