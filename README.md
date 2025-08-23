@@ -11,15 +11,22 @@ This repository contains my day-by-day progress, mini-projects, experiments, and
 
 ---
 
-## 📅 Daily Progress
+Daily Progress
 
-- ✅ [Day 1 – Quote Generator Project]
-- 🔜 Day 2 – Prompt Engineering + Mini App
-- Day 3 - Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.
-  ✅ [Day 4 – Mastered functions and data structures, developed a Quote Manager App.]
-  ✅ [Day 5 – Learned dictionaries, built an Expense Tracker app.]
-  ✅ [Day 6 – Learned file handling, enhanced Expense Tracker with save/load functionality.]
-🔜 Day 7 – Prompt Engineering + Mini App
+📅 Daily Progress  
+✅ [Day 1 – Quote Generator Project]  
+✅ [Day 2 – Prompt Engineering + Mini App]  
+✅ [Day 3 - Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.]  
+✅ [Day 4 – Mastered functions and data structures, developed a Quote Manager App.]  
+✅ [Day 5 – Learned dictionaries, built an Expense Tracker app.]  
+✅ [Day 6 – Learned file handling, enhanced Expense Tracker with save/load functionality.]  
+✅ [Day 7 – Learned advanced file handling, enhanced Expense Tracker with categories.]  
+✅ [Day 8 – Learned file-based reporting, added category report to Expense Tracker.]  
+✅ [Day 9 – Started learning OOP, began class-based Expense Tracker.]  
+✅ [Day 10 – Learned OOP methods, integrated file handling into Expense Tracker.]  
+✅ [Day 11 – Learned OOP inheritance, added ReportManager for category reporting.]  
+✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning
+
 
 ## 📍 Why This Journey?
 
