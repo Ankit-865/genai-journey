@@ -26,6 +26,7 @@ Daily Progress
 ✅ [Day 10 – Learned OOP methods, integrated file handling into Expense Tracker.]  
 ✅ [Day 11 – Learned OOP inheritance, added ReportManager for category reporting.]  
 ✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning
+✅ [Day 13 – Added Inventory Management System
 
 
 ## 📍 Why This Journey?
