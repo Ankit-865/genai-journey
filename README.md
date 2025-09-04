@@ -43,9 +43,15 @@ Move All Zeros to End
 
 Generate Odd Numbers up to N
 
+✅ Completed Linked List:
+
+Implemented Singly Linked List (insert, remove, search, insert after value)
+
+Implemented Doubly Linked List (forward & backward traversal, insertion, deletion)
+
 🔜 Upcoming in Week 2:
 
-Linked List, Hash Table, Stack, Queue
+ Hash Table, Stack, Queue
 
 Trees & Graphs
 
