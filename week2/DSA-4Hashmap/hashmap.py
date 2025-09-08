@@ -1,82 +1,82 @@
-# # 1. nyc_weather.csv contains new york city weather for first few days in the month of January. Write a program that can answer following,
-# #a. What was the average temperature in first week of Jan
-# #b. What was the maximum temperature in first 10 days of Jan
+# 1. nyc_weather.csv contains new york city weather for first few days in the month of January. Write a program that can answer following,
+#a. What was the average temperature in first week of Jan
+#b. What was the maximum temperature in first 10 days of Jan
 
 
-# arr = []
+arr = []
 
-# with open("nyc_weather.csv", "r") as f:
-#     for line in f:
-#         tokens = line.strip().split(",")
+with open("nyc_weather.csv", "r") as f:
+    for line in f:
+        tokens = line.strip().split(",")
         
-#         if tokens[0] == "date":
-#             continue
+        if tokens[0] == "date":
+            continue
         
-#         try:
-#             temperature = int(tokens[1])  # extract temperature
-#             arr.append(temperature)
-#         except ValueError:
-#             print("Invalid temperature. Ignoring this row.")
+        try:
+            temperature = int(tokens[1])  # extract temperature
+            arr.append(temperature)
+        except ValueError:
+            print("Invalid temperature. Ignoring this row.")
 
-# # (a) Average temperature in first week of Jan (first 7 days)
-# if len(arr) >= 7:
-#     avg_temp_week1 = sum(arr[0:7]) / len(arr[0:7])
-#     print(f"Average temperature in first week of Jan: {avg_temp_week1:.2f}")
-# else:
-#     print("Not enough data for first week.")
+# (a) Average temperature in first week of Jan (first 7 days)
+if len(arr) >= 7:
+    avg_temp_week1 = sum(arr[0:7]) / len(arr[0:7])
+    print(f"Average temperature in first week of Jan: {avg_temp_week1:.2f}")
+else:
+    print("Not enough data for first week.")
 
-# # (b) Maximum temperature in first 10 days of Jan
-# if len(arr) >= 10:
-#     max_temp_10days = max(arr[0:10])
-#     print(f"Maximum temperature in first 10 days of Jan: {max_temp_10days}")
-# else:
-#     print("Not enough data for first 10 days.")
-
-
-# #(2) nyc_weather.csv contains new york city weather for first few days in the month of January. Write a program that can answer following,
-# #   (a) What was the temperature on Jan 9?
-# #   (b) What was the temperature on Jan 4?
+# (b) Maximum temperature in first 10 days of Jan
+if len(arr) >= 10:
+    max_temp_10days = max(arr[0:10])
+    print(f"Maximum temperature in first 10 days of Jan: {max_temp_10days}")
+else:
+    print("Not enough data for first 10 days.")
 
 
-# weather_dict = {}
+#(2) nyc_weather.csv contains new york city weather for first few days in the month of January. Write a program that can answer following,
+#   (a) What was the temperature on Jan 9?
+#   (b) What was the temperature on Jan 4?
 
-# with open("nyc_weather.csv", "r") as f:
-#     for line in f:
-#         tokens = line.strip().split(",")
+
+weather_dict = {}
+
+with open("nyc_weather.csv", "r") as f:
+    for line in f:
+        tokens = line.strip().split(",")
         
-#         if tokens[0] == "date":
-#             continue
+        if tokens[0] == "date":
+            continue
         
-#         day = tokens[0]
-#         try:
-#             temperature = int(tokens[1])
-#             weather_dict[day] = temperature
-#         except ValueError:
-#             print("Invalid temperature. Ignore the row")
+        day = tokens[0]
+        try:
+            temperature = int(tokens[1])
+            weather_dict[day] = temperature
+        except ValueError:
+            print("Invalid temperature. Ignore the row")
 
-# # (a) Temperature on Jan 9
-# print("Temperature on Jan 9:", weather_dict.get("Jan 9", "Data not available"))
+# (a) Temperature on Jan 9
+print("Temperature on Jan 9:", weather_dict.get("Jan 9", "Data not available"))
 
-# # (b) Temperature on Jan 4
-# print("Temperature on Jan 4:", weather_dict.get("Jan 4", "Data not available"))
+# (b) Temperature on Jan 4
+print("Temperature on Jan 4:", weather_dict.get("Jan 4", "Data not available"))
 
 
 
-# #3. poem.txt Contains famous poem "Road not taken" by poet Robert Frost. You have to read this file in python and print every word and its count as show below. Think about the best data structure that you can use to solve this problem and figure out why you selected that specific data structure.
-# word_count = {}  
-# with open("poem.txt", "r") as f:
-#     for line in f:
-#         tokens = line.split()
-#         for token in tokens:
-#             token = token.strip()
+#3. poem.txt Contains famous poem "Road not taken" by poet Robert Frost. You have to read this file in python and print every word and its count as show below. Think about the best data structure that you can use to solve this problem and figure out why you selected that specific data structure.
+word_count = {}  
+with open("poem.txt", "r") as f:
+    for line in f:
+        tokens = line.split()
+        for token in tokens:
+            token = token.strip()
             
-#             if token in word_count:
-#                 word_count[token] += 1
-#             else:
-#                 word_count[token] = 1
+            if token in word_count:
+                word_count[token] += 1
+            else:
+                word_count[token] = 1
 
-# for word, count in word_count.items():
-#     print(f"'{word}': {count},")
+for word, count in word_count.items():
+    print(f"'{word}': {count},")
 
 
 #4 Implement hash table where collisions are handled using linear probing. We learnt about linear probing in the video tutorial. Take the hash table implementation that uses chaining and modify methods to use linear probing. Keep MAX size of arr in hashtable as 10.
