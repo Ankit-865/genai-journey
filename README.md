@@ -49,9 +49,16 @@ Implemented Singly Linked List (insert, remove, search, insert after value)
 
 Implemented Doubly Linked List (forward & backward traversal, insertion, deletion)
 
+✅ Completed HashMap & File Handling:  
+- Weather Data Analysis using arrays  
+- Fast Weather Lookup with dictionary  
+- Word Frequency Counter (poem.txt)  
+- Custom Hash Table implementation with Linear Probing  
+
+
 🔜 Upcoming in Week 2:
 
- Hash Table, Stack, Queue
+ Stack, Queue
 
 Trees & Graphs
 
