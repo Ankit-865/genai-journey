@@ -23,31 +23,25 @@ This repository contains my day-by-day progress, mini-projects, experiments, and
 ✅ [Day 9 – Started learning OOP, began class-based Expense Tracker.]  
 ✅ [Day 10 – Learned OOP methods, integrated file handling into Expense Tracker.]  
 ✅ [Day 11 – Learned OOP inheritance, added ReportManager for category reporting.]  
-✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning]
-✅ [Day 13 – Added Inventory Management System]
+✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning]  
+✅ [Day 13 – Added Inventory Management System]  
 
-📚 Week 2 – Data Structures & Algorithms (DSA in Python)
+📚 Week 2 - 3 – Data Structures & Algorithms (DSA in Python)
 
-🔹 Goal → Strengthen problem-solving fundamentals needed for scalable AI pipelines.
+🔹 Goal → Strengthen problem-solving fundamentals needed for scalable AI pipelines.  
 Not going extremely deep like competitive programming, but enough to understand efficiency, memory flow, and scalability.
 
-✅ Practiced Big O Notation (time & space complexity basics)
-✅ Implemented Binary Search (O(log n))
-✅ Completed Arrays:
+✅ Practiced Big O Notation (time & space complexity basics)  
+✅ Implemented Binary Search (O(log n))  
+✅ Completed Arrays:  
+- Find Largest Element  
+- Check if Array is Sorted  
+- Move All Zeros to End  
+- Generate Odd Numbers up to N  
 
-Find Largest Element
-
-Check if Array is Sorted
-
-Move All Zeros to End
-
-Generate Odd Numbers up to N
-
-✅ Completed Linked List:
-
-Implemented Singly Linked List (insert, remove, search, insert after value)
-
-Implemented Doubly Linked List (forward & backward traversal, insertion, deletion)
+✅ Completed Linked List:  
+- Implemented Singly Linked List (insert, remove, search, insert after value)  
+- Implemented Doubly Linked List (forward & backward traversal, insertion, deletion)  
 
 ✅ Completed HashMap & File Handling:  
 - Weather Data Analysis using arrays  
@@ -55,19 +49,19 @@ Implemented Doubly Linked List (forward & backward traversal, insertion, deletio
 - Word Frequency Counter (poem.txt)  
 - Custom Hash Table implementation with Linear Probing  
 
+✅ Completed Stack:  
+- Reversed a string using Stack (LIFO)  
+- Checked for Balanced Parentheses `()`, `{}`, `[]` using Stack  
 
-🔜 Upcoming in Week 2:
+🔜 Upcoming in Week 3:  
+- Queue  
+- Trees & Graphs  
+- Sorting Algorithms: Bubble Sort, Quick Sort, Merge Sort  
+- Recursion  
 
- Stack, Queue
+📂 Code → Week 2 – DSA Folder  
 
-Trees & Graphs
-
-Sorting Algorithms: Bubble Sort, Quick Sort, Merge Sort
-
-Recursion
-
-📂 Code → Week 2 – DSA Folder
-
+---
 
 ## 📍 Why This Journey?
 
@@ -81,6 +75,7 @@ I believe in **learning by doing**, and this public repo helps me:
 ## 🔗 GitHub Repository
 
 **Live Repo:** [https://github.com/Ankit-865/genai-journey]
+
 ---
 
 ## 🙌 Let’s Connect!
