@@ -57,9 +57,14 @@ Not going extremely deep like competitive programming, but enough to understand 
 - Designed a **Food Ordering System** using Multithreading & Queue (Producer-Consumer Problem)  
 - Generated **Binary Numbers (1 to N)** using Queue (BFS-style sequence generation)
 
+✅ Completed Trees & Binary Trees:  
+- Built a **General Tree** with Name/Designation printing (Org chart style)  
+- Implemented **Binary Search Tree** with Insert, Search, Min, Max, Traversals, Sum  
+- Implemented **BST Deletion** using Max from Left Subtree (Preserved BST properties)  
+
+
 🔜 Upcoming in Week 3:  
-- Queue  
-- Trees & Graphs  
+- Graphs  
 - Sorting Algorithms: Bubble Sort, Quick Sort, Merge Sort  
 - Recursion  
 
