@@ -1,97 +1,115 @@
-# 🚀 Generative AI Journey
+🚀 Generative AI Journey
 
-Welcome to my **Generative AI learning journey**!  
-I’ve committed to a consistent, project-based learning path focused on **daily hands-on practice**, concept clarity, and building a strong portfolio.
+Welcome to my Generative AI learning journey!
+I’ve committed to a consistent, project-based learning path focused on daily hands-on practice, concept clarity, and building a strong portfolio.
 
----
+📘 What You’ll Find Here
 
-## 📘 What You’ll Find Here
+This repository contains my day-by-day progress, mini-projects, experiments, and learning logs – all part of my journey to becoming job-ready in GenAI + Full Stack.
 
-This repository contains my day-by-day progress, mini-projects, experiments, and learning logs – all part of my journey to becoming job-ready in **GenAI + Full Stack**.
-
----
-
-📅 Daily Progress  
-✅ [Day 1 – Quote Generator Project]  
-✅ [Day 2 – Prompt Engineering + Mini App]  
-✅ [Day 3 - Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.]  
-✅ [Day 4 – Mastered functions and data structures, developed a Quote Manager App.]  
-✅ [Day 5 – Learned dictionaries, built an Expense Tracker app.]  
-✅ [Day 6 – Learned file handling, enhanced Expense Tracker with save/load functionality.]  
-✅ [Day 7 – Learned advanced file handling, enhanced Expense Tracker with categories.]  
-✅ [Day 8 – Learned file-based reporting, added category report to Expense Tracker.]  
-✅ [Day 9 – Started learning OOP, began class-based Expense Tracker.]  
-✅ [Day 10 – Learned OOP methods, integrated file handling into Expense Tracker.]  
-✅ [Day 11 – Learned OOP inheritance, added ReportManager for category reporting.]  
-✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning]  
-✅ [Day 13 – Added Inventory Management System]  
+📅 Daily Progress
+✅ [Day 1 – Quote Generator Project]
+✅ [Day 2 – Prompt Engineering + Mini App]
+✅ [Day 3 - Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.]
+✅ [Day 4 – Mastered functions and data structures, developed a Quote Manager App.]
+✅ [Day 5 – Learned dictionaries, built an Expense Tracker app.]
+✅ [Day 6 – Learned file handling, enhanced Expense Tracker with save/load functionality.]
+✅ [Day 7 – Learned advanced file handling, enhanced Expense Tracker with categories.]
+✅ [Day 8 – Learned file-based reporting, added category report to Expense Tracker.]
+✅ [Day 9 – Started learning OOP, began class-based Expense Tracker.]
+✅ [Day 10 – Learned OOP methods, integrated file handling into Expense Tracker.]
+✅ [Day 11 – Learned OOP inheritance, added ReportManager for category reporting.]
+✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning]
+✅ [Day 13 – Added Inventory Management System]
 
 📚 Week 2 - 3 – Data Structures & Algorithms (DSA in Python)
 
-🔹 Goal → Strengthen problem-solving fundamentals needed for scalable AI pipelines.  
+🔹 Goal → Strengthen problem-solving fundamentals needed for scalable AI pipelines.
 Not going extremely deep like competitive programming, but enough to understand efficiency, memory flow, and scalability.
 
-✅ Practiced Big O Notation (time & space complexity basics)  
-✅ Implemented Binary Search (O(log n))  
-✅ Completed Arrays:  
-- Find Largest Element  
-- Check if Array is Sorted  
-- Move All Zeros to End  
-- Generate Odd Numbers up to N  
+✅ Practiced Big O Notation (time & space complexity basics)
+✅ Implemented Binary Search (O(log n))
+✅ Completed Arrays:
 
-✅ Completed Linked List:  
-- Implemented Singly Linked List (insert, remove, search, insert after value)  
-- Implemented Doubly Linked List (forward & backward traversal, insertion, deletion)  
+Find Largest Element
 
-✅ Completed HashMap & File Handling:  
-- Weather Data Analysis using arrays  
-- Fast Weather Lookup with dictionary  
-- Word Frequency Counter (poem.txt)  
-- Custom Hash Table implementation with Linear Probing  
+Check if Array is Sorted
 
-✅ Completed Stack:  
-- Reversed a string using Stack (LIFO)  
-- Checked for Balanced Parentheses `()`, `{}`, `[]` using Stack  
+Move All Zeros to End
 
-✅ Completed Queue:  
-- Designed a **Food Ordering System** using Multithreading & Queue (Producer-Consumer Problem)  
-- Generated **Binary Numbers (1 to N)** using Queue (BFS-style sequence generation)
+Generate Odd Numbers up to N
 
-✅ Completed Trees & Binary Trees:  
-- Built a **General Tree** with Name/Designation printing (Org chart style)  
-- Implemented **Binary Search Tree** with Insert, Search, Min, Max, Traversals, Sum  
-- Implemented **BST Deletion** using Max from Left Subtree (Preserved BST properties)  
+✅ Completed Linked List:
 
+Implemented Singly Linked List (insert, remove, search, insert after value)
 
-🔜 Upcoming in Week 3:  
-- Graphs  
-- Sorting Algorithms: Bubble Sort, Quick Sort, Merge Sort  
-- Recursion  
+Implemented Doubly Linked List (forward & backward traversal, insertion, deletion)
 
-📂 Code → Week 2 – DSA Folder  
+✅ Completed HashMap & File Handling:
 
----
+Weather Data Analysis using arrays
 
-## 📍 Why This Journey?
+Fast Weather Lookup with dictionary
 
-I believe in **learning by doing**, and this public repo helps me:
-- Stay consistent and accountable
-- Showcase practical GenAI projects
-- Track growth over time
+Word Frequency Counter (poem.txt)
 
----
+Custom Hash Table implementation with Linear Probing
 
-## 🔗 GitHub Repository
+✅ Completed Stack:
 
-**Live Repo:** [https://github.com/Ankit-865/genai-journey]
+Reversed a string using Stack (LIFO)
 
----
+Checked for Balanced Parentheses (), {}, [] using Stack
 
-## 🙌 Let’s Connect!
+✅ Completed Queue:
 
-- 🔗 [GitHub](https://github.com/Ankit-865)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ankitnamdev)
+Designed a Food Ordering System using Multithreading & Queue (Producer-Consumer Problem)
 
----
+Generated Binary Numbers (1 to N) using Queue (BFS-style sequence generation)
+
+✅ Completed Trees & Binary Trees:
+
+Built a General Tree with Name/Designation printing (Org chart style)
+
+Implemented Binary Search Tree with Insert, Search, Min, Max, Traversals, Sum
+
+Implemented BST Deletion using Max from Left Subtree (Preserved BST properties)
+
+✅ Completed Graphs:
+
+Represented Graphs using Adjacency List
+
+Found All Paths between two nodes (DFS approach)
+
+Found the Shortest Path between two nodes
+
+🔜 Upcoming in Week 3:
+
+Sorting Algorithms: Bubble Sort, Quick Sort, Merge Sort
+
+Recursion
+
+📂 Code → Week 2 – DSA Folder
+
+📍 Why This Journey?
+
+I believe in learning by doing, and this public repo helps me:
+
+Stay consistent and accountable
+
+Showcase practical GenAI projects
+
+Track growth over time
+
+🔗 GitHub Repository
+
+Live Repo: [https://github.com/Ankit-865/genai-journey
+]
+
+🙌 Let’s Connect!
+
+🔗 GitHub
+
+💼 LinkedIn
 
 Thanks for stopping by! 🚀
