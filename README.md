@@ -135,27 +135,56 @@ Organizing Python projects cleanly
 
 🧾 Dataset Source: Sample Sales Data – Kaggle
 
-📅 Week 5 – Pandas & Data Analysis
+Week 5 – Pandas: Data Processing & Analysis
 
-🎯 Goal → Learn data analysis and cleaning using the Pandas library.
+🎯 Goal → Build strong data preprocessing and analysis skills required for ML & GenAI pipelines.
 
-📘 Upcoming Focus
+🧠 What I Worked On
 
-Understanding Series and DataFrame structures
+✔ Built a **complete Pandas-based data processing pipeline**
+✔ Worked with a **real-world sales dataset**
+✔ Focused on professional, script-based data handling instead of notebooks
 
-Reading and writing data using Pandas (read_csv, to_csv)
+🧩 Concepts Covered (Layer-wise Learning)
 
-Handling missing values (fillna, dropna)
+- Understanding raw data and structure
+- Selecting and filtering relevant records
+- GroupBy & Aggregations
+- Sorting and ranking data
+- Feature Engineering
+- String operations
+- Handling missing values
+- Removing duplicates
+- End-to-end pipeline thinking
 
-Sorting, filtering, and grouping data
+📂 Pandas Project Structure
 
-Applying aggregate functions (sum, mean, count)
+week5/Pandas/
+├── layer1 (Understanding Data)
+├── layer2 (Selecting & Filtering)
+├── layer3 (GroupBy & Aggregation)
+├── layer4 (Sorting)
+├── layer5 (Feature Engineering)
+├── layer6 (String Operations)
+├── layer7 (Missing Values)
+├── layer8 (Duplicates)
+├── project
+│   ├── data
+│   ├── scripts
+│   └── output
+└── README.md
 
-Merging and joining multiple datasets
+🧠 Key Learnings
 
-Integrating Pandas with NumPy for hybrid workflows
+- Pandas is the backbone of **real-world data pipelines**
+- Clean data matters more than complex models
+- Script-based workflows are closer to production systems
+- GenAI engineers spend a LOT of time in data preprocessing
 
-📂 Code → Week 5 – Pandas Folder (will include daily notebooks and mini-projects)
+🔜 Next Up:
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib & Seaborn)
+- Integrating Pandas output into ML / GenAI workflows
 
 📍 Why This Journey?
 
