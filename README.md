@@ -181,9 +181,51 @@ week5/Pandas/
 - Script-based workflows are closer to production systems
 - GenAI engineers spend a LOT of time in data preprocessing
 
+.
+
+📊 Week 6 – Matplotlib: Data Visualization & EDA
+
+🎯 Goal → Learn how to visualize real-world data and extract insights using Matplotlib, an essential skill for Data Science, ML, and GenAI pipelines.
+
+🧠 What I Worked On
+
+✔ Visualized a real-world sales dataset using Matplotlib
+✔ Built script-based visualizations (not notebook-only)
+✔ Learned how data visualization fits into EDA and GenAI workflows
+
+🧩 Visualizations Implemented
+
+Sales Distribution using Histogram
+
+Category-wise Revenue using Bar Chart
+
+Monthly Sales Trend using Line Plot
+
+Pandas + Matplotlib integrated workflow
+
+🛠 Key Concepts Learned
+
+Matplotlib installation & core architecture
+
+Figure sizing, labels, titles & layouts
+
+Handling real-world issues like file paths & encoding
+
+Using groupby() + visualization (industry-standard EDA)
+
+Writing reusable, production-style scripts
+
+📂 Project Highlights
+
+Clean folder structure with dataset, scripts & outputs
+
+Script-based execution (works from any directory)
+
+Visual outputs saved for reporting & GitHub showcase
+
 🔜 Next Up:
 - Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib & Seaborn)
+- Data Visualization (Seaborn)
 - Integrating Pandas output into ML / GenAI workflows
 
 📍 Why This Journey?
