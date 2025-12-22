@@ -1,164 +1,160 @@
-
 🚀 Generative AI Journey
 
 Welcome to my Generative AI learning journey!
-I’ve committed to a consistent, project-based learning path focused on daily hands-on practice, concept clarity, and building a strong portfolio.
+I’ve committed to a consistent, project-based learning path focused on daily hands-on practice, deep concept clarity, and building a strong, job-ready portfolio.
 
 📘 What You’ll Find Here
 
-This repository contains my day-by-day progress, mini-projects, experiments, and learning logs – all part of my journey to becoming job-ready in GenAI + Full Stack.
+This repository documents my end-to-end learning journey — from programming fundamentals to data processing, visualization, and AI-ready pipelines — all structured through real projects, scripts, and experiments.
 
-📅 Daily Progress
+📅 Daily Progress (Foundations)
 
-✅ [Day 1 – Quote Generator Project]
-✅ [Day 2 – Prompt Engineering + Mini App]
-✅ [Day 3 – Learned Python Lists, Tuples, Sets, and Prompt Engineering. Built a Text Analyzer CLI app.]
-✅ [Day 4 – Mastered functions and data structures, developed a Quote Manager App.]
-✅ [Day 5 – Learned dictionaries, built an Expense Tracker app.]
-✅ [Day 6 – Learned file handling, enhanced Expense Tracker with save/load functionality.]
-✅ [Day 7 – Learned advanced file handling, enhanced Expense Tracker with categories.]
-✅ [Day 8 – Learned file-based reporting, added category report to Expense Tracker.]
-✅ [Day 9 – Started learning OOP, began class-based Expense Tracker.]
-✅ [Day 10 – Learned OOP methods, integrated file handling into Expense Tracker.]
-✅ [Day 11 – Learned OOP inheritance, added ReportManager for category reporting.]
-✅ [Day 12 – Revised all topics, built Personal Finance Dashboard to reinforce learning.]
-✅ [Day 13 – Added Inventory Management System]
+✅ Day 1 – Quote Generator Project
+✅ Day 2 – Prompt Engineering + Mini App
+✅ Day 3 – Python Lists, Tuples, Sets + Text Analyzer CLI App
+✅ Day 4 – Functions & Data Structures + Quote Manager App
+✅ Day 5 – Dictionaries + Expense Tracker
+✅ Day 6 – File Handling + Save/Load in Expense Tracker
+✅ Day 7 – Advanced File Handling + Categories
+✅ Day 8 – File-based Reporting + Category Reports
+✅ Day 9 – OOP Introduction + Class-based Expense Tracker
+✅ Day 10 – OOP Methods + File Integration
+✅ Day 11 – OOP Inheritance + ReportManager
+✅ Day 12 – Revision + Personal Finance Dashboard
+✅ Day 13 – Inventory Management System
 
-📚 Week 2 - 3 – Data Structures & Algorithms (DSA in Python)
+📚 Data Structures & Algorithms (DSA in Python)
 
-🔹 Goal → Strengthen problem-solving fundamentals needed for scalable AI pipelines.
-Not going extremely deep like competitive programming, but enough to understand efficiency, memory flow, and scalability.
+🎯 Goal → Build strong problem-solving fundamentals required for scalable ML & GenAI systems.
+Focused on understanding efficiency, memory flow, and real-world usage rather than competitive programming.
 
-✅ Practiced Big O Notation (time & space complexity basics)
-✅ Implemented Binary Search (O(log n))
-✅ Completed Arrays:
+✅ Topics Covered
 
-Find Largest Element
+Complexity
 
-Check if Array is Sorted
+Big O Notation (Time & Space)
 
-Move All Zeros to End
+Arrays
 
-Generate Odd Numbers up to N
+Largest Element
 
-✅ Completed Linked List:
+Check if Sorted
 
-Singly Linked List (insert, remove, search, insert after value)
+Move Zeros to End
 
-Doubly Linked List (forward/backward traversal, insertion, deletion)
+Generate Odd Numbers
 
-✅ Completed HashMap & File Handling:
+Linked Lists
 
-Weather Data Analysis using arrays
+Singly Linked List (insert, delete, search)
 
-Fast Weather Lookup with dictionary
+Doubly Linked List (forward/backward traversal)
 
-Word Frequency Counter (poem.txt)
+HashMap & File Handling
 
-Custom Hash Table implementation with Linear Probing
+Weather Data Analysis
 
-✅ Completed Stack:
+Fast Lookup using Dictionary
 
-Reversed a string using Stack (LIFO)
+Word Frequency Counter
 
-Checked for Balanced Parentheses (), {}, [] using Stack
+Custom Hash Table (Linear Probing)
 
-✅ Completed Queue:
+Stack
 
-Designed a Food Ordering System using Multithreading & Queue (Producer-Consumer Problem)
+String Reversal (LIFO)
 
-Generated Binary Numbers (1 to N) using Queue (BFS-style sequence generation)
+Balanced Parentheses
 
-✅ Completed Trees & Binary Trees:
+Queue
 
-Built a General Tree with Name/Designation printing (Org chart style)
+Food Ordering System (Producer–Consumer)
 
-Implemented Binary Search Tree with Insert, Search, Min, Max, Traversals, Sum
+Binary Numbers using Queue (BFS)
 
-Implemented BST Deletion using Max from Left Subtree (Preserved BST properties)
+Trees
 
-✅ Completed Graphs:
+General Tree (Org Chart)
 
-Represented Graphs using Adjacency List
+Binary Search Tree (Insert, Search, Traversals, Delete)
 
-Found All Paths between two nodes (DFS approach)
+Graphs
 
-Found the Shortest Path between two nodes
+Graph Representation (Adjacency List)
 
-🧮 Week4 – NumPy Project: Data Cleaning & Sorting
+All Paths between nodes (DFS)
 
-🎯 Goal: Learn and apply NumPy concepts through a real-world data cleaning project.
+Shortest Path between nodes
+
+🧮 NumPy – Data Cleaning & Sorting Project
+
+🎯 Goal → Learn numerical data processing using NumPy through a real-world dataset.
 
 🧠 Concepts Learned
 
-NumPy array properties, indexing, and slicing
+NumPy array properties, indexing & slicing
 
-Data loading using np.genfromtxt()
+Data loading with np.genfromtxt()
 
-Handling encoding and malformed rows
+Handling encoding & malformed rows
 
-Filtering and masking invalid numeric data
+Filtering & masking invalid values
 
-Sorting arrays by column (SALES descending)
+Sorting by column (Sales – descending)
 
-Exporting clean data with np.savetxt()
+Exporting cleaned data using np.savetxt()
 
 🧩 Project Workflow
 
-Downloaded Kaggle dataset: Sample Sales Data
+Kaggle Dataset: Sample Sales Data
 
-Created professional folder structure:
+Structured project folders (data / scripts / output)
 
-numpy project/
-├── data/
-├── scripts/
-└── output/
+Cleaned & validated numerical data
 
-
-Loaded dataset and handled missing/invalid entries
-
-Cleaned and filtered valid sales/quantity data
-
-Sorted results by sales value
-
-Saved cleaned and sorted data to output/cleaned_sales.csv
+Saved final dataset for downstream use
 
 🧾 Skills Demonstrated
 
 Data preprocessing using NumPy
 
-Problem-solving with messy datasets
+Handling messy real-world datasets
 
-File handling, encoding management, and data transformation
+File handling & transformation
 
-Organizing Python projects cleanly
+Clean project organization
 
-🧾 Dataset Source: Sample Sales Data – Kaggle
+📊 Pandas – Data Processing & Analysis
 
-Week 5 – Pandas: Data Processing & Analysis
-
-🎯 Goal → Build strong data preprocessing and analysis skills required for ML & GenAI pipelines.
+🎯 Goal → Build production-style data pipelines using Pandas.
 
 🧠 What I Worked On
 
-✔ Built a **complete Pandas-based data processing pipeline**
-✔ Worked with a **real-world sales dataset**
-✔ Focused on professional, script-based data handling instead of notebooks
+✔ Complete script-based Pandas pipeline
+✔ Real-world sales dataset
+✔ Layer-wise learning instead of notebook-only analysis
 
-🧩 Concepts Covered (Layer-wise Learning)
+🧩 Concepts Covered
 
-- Understanding raw data and structure
-- Selecting and filtering relevant records
-- GroupBy & Aggregations
-- Sorting and ranking data
-- Feature Engineering
-- String operations
-- Handling missing values
-- Removing duplicates
-- End-to-end pipeline thinking
+Data understanding & inspection
+
+Filtering & conditional selection
+
+GroupBy & Aggregations
+
+Sorting & ranking
+
+Feature engineering
+
+String operations
+
+Missing values handling
+
+Duplicate removal
+
+End-to-end pipeline thinking
 
 📂 Pandas Project Structure
-
 week5/Pandas/
 ├── layer1 (Understanding Data)
 ├── layer2 (Selecting & Filtering)
@@ -176,76 +172,126 @@ week5/Pandas/
 
 🧠 Key Learnings
 
-- Pandas is the backbone of **real-world data pipelines**
-- Clean data matters more than complex models
-- Script-based workflows are closer to production systems
-- GenAI engineers spend a LOT of time in data preprocessing
+Pandas is the backbone of real-world data pipelines
 
-.
+Clean data > complex models
 
-📊 Week 6 – Matplotlib: Data Visualization & EDA
+Script-based workflows resemble production systems
 
-🎯 Goal → Learn how to visualize real-world data and extract insights using Matplotlib, an essential skill for Data Science, ML, and GenAI pipelines.
+GenAI engineers spend significant time in preprocessing
+
+📈 Matplotlib – Data Visualization & EDA
+
+🎯 Goal → Learn how to visualize data and extract insights using Matplotlib, a core EDA skill.
 
 🧠 What I Worked On
 
-✔ Visualized a real-world sales dataset using Matplotlib
-✔ Built script-based visualizations (not notebook-only)
-✔ Learned how data visualization fits into EDA and GenAI workflows
+✔ Visualized sales data using Matplotlib
+✔ Script-based plotting (not notebook-only)
+✔ Integrated Pandas + Matplotlib workflow
 
 🧩 Visualizations Implemented
 
-Sales Distribution using Histogram
+Sales Distribution (Histogram)
 
-Category-wise Revenue using Bar Chart
+Category-wise Revenue (Bar Chart)
 
-Monthly Sales Trend using Line Plot
+Monthly Sales Trend (Line Plot)
 
-Pandas + Matplotlib integrated workflow
+🛠 Key Concepts
 
-🛠 Key Concepts Learned
+Matplotlib architecture
 
-Matplotlib installation & core architecture
+Figure sizing, labels & layouts
 
-Figure sizing, labels, titles & layouts
+File path & encoding handling
 
-Handling real-world issues like file paths & encoding
+GroupBy + visualization (industry-standard EDA)
 
-Using groupby() + visualization (industry-standard EDA)
+📊 Seaborn – Statistical Data Visualization & EDA (NEW)
 
-Writing reusable, production-style scripts
+🎯 Goal → Perform statistical, data-aware visualization for deeper Exploratory Data Analysis.
 
-📂 Project Highlights
+🧠 Learning Approach
 
-Clean folder structure with dataset, scripts & outputs
+First practiced all Seaborn functions using built-in datasets (e.g. penguins)
 
-Script-based execution (works from any directory)
+Focused on understanding why a plot is used
 
-Visual outputs saved for reporting & GitHub showcase
+Then applied the same concepts to a real-world sales dataset
 
-🔜 Next Up:
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Seaborn)
-- Integrating Pandas output into ML / GenAI workflows
+📚 Seaborn Functions Covered
+
+histplot, kdeplot – Distribution analysis
+
+countplot, barplot – Categorical & aggregated comparison
+
+lineplot – Trend analysis
+
+scatterplot + hue, style, size – Multi-dimensional relationships
+
+boxplot, violinplot – Outlier & distribution analysis
+
+pairplot – Complete EDA overview
+
+heatmap – Correlation analysis
+
+🚀 Sales Dataset EDA
+
+Sales distribution & skewness
+
+Product line revenue comparison
+
+Deal size variability & outliers
+
+Monthly sales trends
+
+Quantity vs sales relationship
+
+Feature correlation for ML readiness
+
+📂 Project files include:
+
+Practice file (sbn.py)
+
+Real dataset project (sbproject.py)
+
+Clean documentation & visuals
+
+🔜 Next Up (Backend & AI Systems)
+
+🚀 FastAPI Backend Development
+
+REST APIs for ML & GenAI pipelines
+
+Data ingestion endpoints
+
+Model-serving ready architecture
+
+Async APIs & production patterns
 
 📍 Why This Journey?
 
-I believe in learning by doing, and this public repo helps me:
+I believe in learning by doing.
+This public repository helps me:
 
-Stay consistent and accountable
+Stay consistent & accountable
 
-Showcase practical GenAI and Python projects
+Showcase real, practical projects
 
-Track my growth over time
+Track growth over time
+
+Build industry-ready GenAI skills
 
 🔗 GitHub Repository
 
-Live Repo: https://github.com/Ankit-865/genai-journey
+👉 Live Repo: https://github.com/Ankit-865/genai-journey
 
 🙌 Let’s Connect!
 
-💼 LinkedIn: linkedin.com/in/ankit-865
+💼 LinkedIn: https://linkedin.com/in/ankit-865
 
-🔗 GitHub: github.com/Ankit-865
+🔗 GitHub: https://github.com/Ankit-865
 
 Thanks for stopping by! 🚀
+This journey is just getting started.
